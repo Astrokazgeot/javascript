@@ -1,0 +1,6 @@
+console.log(2>"2")
+console.log(2=="2")// datatype different but js convert it not always but in this case it did
+console.log(null>=0)// gave true
+console.log(null==0)// gave false
+// === strict check check datatpes also
+console.log("0"===0)
